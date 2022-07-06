@@ -27,9 +27,11 @@
 
 .portrait {
     object-fit: fill;
-    max-height: 300px;
-    margin-top: 1rem;
-    margin-bottom: 2rem;
+    margin: 2rem 0;
+}
+
+.portrait-box {
+    height: 500px;
 }
 
 /*TODO - add or remove the delimiter between profiles */
