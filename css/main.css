@@ -5,19 +5,23 @@
 .slide-background {
     object-fit: none;
     max-height: 500px;
-    opacity: 0.6;
 }
 
-.caption h1 {
+.caption {
+    background-color: ivory;
+    opacity: 0.85;
+}
+
+.caption-text {
+    color: dimgray;
+}
+
+.section-label {
+    font-family: "Great Vibes", cursive;
+}
+
+.violet-mask {
     font-size: xxx-large;
-}
-
-.label {
-    font-family: "Great Vibes", cursive;
-}
-
-.name {
-    font-family: "Great Vibes", cursive;
     color: mediumvioletred;
 }
 
