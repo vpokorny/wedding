@@ -61,9 +61,30 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    color: ivory;
 }
 
 .blockquote {
     font-size: medium;
     font-style: italic;
+}
+
+.map-legend {
+    list-style: none;
+}
+
+.map-legend-item {
+    position: relative;
+}
+
+.map-legend .map-legend-marker {
+    position: absolute;
+    left: -48px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.parking {
+    color: darkblue;
 }
