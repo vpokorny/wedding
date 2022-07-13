@@ -14,10 +14,12 @@
 
 .caption-text {
     color: dimgray;
+    font-style: italic;
 }
 
 .section-label {
     font-family: "Great Vibes", cursive;
+    font-style: normal;
 }
 
 .violet-mask {
