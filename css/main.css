@@ -29,6 +29,7 @@
 .portrait {
     object-fit: fill;
     margin: 2rem 0;
+    max-height: 15rem;
 }
 
 .portrait-box {
